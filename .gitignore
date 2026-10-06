@@ -1,0 +1,14 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# LaTeX build outputs (if using LaTeX)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
